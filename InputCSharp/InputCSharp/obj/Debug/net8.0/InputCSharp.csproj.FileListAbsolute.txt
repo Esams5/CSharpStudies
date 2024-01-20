@@ -1,0 +1,14 @@
+C:\Users\Samuel\Desktop\CSharpStudies\InputCSharp\InputCSharp\bin\Debug\net8.0\InputCSharp.exe
+C:\Users\Samuel\Desktop\CSharpStudies\InputCSharp\InputCSharp\bin\Debug\net8.0\InputCSharp.deps.json
+C:\Users\Samuel\Desktop\CSharpStudies\InputCSharp\InputCSharp\bin\Debug\net8.0\InputCSharp.runtimeconfig.json
+C:\Users\Samuel\Desktop\CSharpStudies\InputCSharp\InputCSharp\bin\Debug\net8.0\InputCSharp.dll
+C:\Users\Samuel\Desktop\CSharpStudies\InputCSharp\InputCSharp\bin\Debug\net8.0\InputCSharp.pdb
+C:\Users\Samuel\Desktop\CSharpStudies\InputCSharp\InputCSharp\obj\Debug\net8.0\InputCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\Desktop\CSharpStudies\InputCSharp\InputCSharp\obj\Debug\net8.0\InputCSharp.AssemblyInfoInputs.cache
+C:\Users\Samuel\Desktop\CSharpStudies\InputCSharp\InputCSharp\obj\Debug\net8.0\InputCSharp.AssemblyInfo.cs
+C:\Users\Samuel\Desktop\CSharpStudies\InputCSharp\InputCSharp\obj\Debug\net8.0\InputCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\CSharpStudies\InputCSharp\InputCSharp\obj\Debug\net8.0\InputCSharp.dll
+C:\Users\Samuel\Desktop\CSharpStudies\InputCSharp\InputCSharp\obj\Debug\net8.0\refint\InputCSharp.dll
+C:\Users\Samuel\Desktop\CSharpStudies\InputCSharp\InputCSharp\obj\Debug\net8.0\InputCSharp.pdb
+C:\Users\Samuel\Desktop\CSharpStudies\InputCSharp\InputCSharp\obj\Debug\net8.0\InputCSharp.genruntimeconfig.cache
+C:\Users\Samuel\Desktop\CSharpStudies\InputCSharp\InputCSharp\obj\Debug\net8.0\ref\InputCSharp.dll
